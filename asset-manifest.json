@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/herokuwebhosting/static/css/main.4b687261.chunk.css",
-    "main.js": "/herokuwebhosting/static/js/main.3f0bffa6.chunk.js",
-    "main.js.map": "/herokuwebhosting/static/js/main.3f0bffa6.chunk.js.map",
+    "main.js": "/herokuwebhosting/static/js/main.ffd98597.chunk.js",
+    "main.js.map": "/herokuwebhosting/static/js/main.ffd98597.chunk.js.map",
     "runtime-main.js": "/herokuwebhosting/static/js/runtime-main.7269db91.js",
     "runtime-main.js.map": "/herokuwebhosting/static/js/runtime-main.7269db91.js.map",
     "static/js/2.35d21708.chunk.js": "/herokuwebhosting/static/js/2.35d21708.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7269db91.js",
     "static/js/2.35d21708.chunk.js",
     "static/css/main.4b687261.chunk.css",
-    "static/js/main.3f0bffa6.chunk.js"
+    "static/js/main.ffd98597.chunk.js"
   ]
 }
